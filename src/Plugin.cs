@@ -12,7 +12,7 @@ public class Plugin : BaseUnityPlugin
 {
     internal const string PluginGUID =  "ErrorJan.REPO.TTSLocalizationFix";
     internal const string PluginName = "TTS Localization Fix";
-    internal const string PluginVersion = "1.0.0.0"; 
+    internal const string PluginVersion = "1.0.0"; 
 
     private void Awake()
     {
